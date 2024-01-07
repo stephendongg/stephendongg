@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋, my name is Stephen Dong! Here's a little bit about me. 
+- 📚 B.S.E Computer Science @ Princeton University
+- 👨‍💻 Previous Internships at @Rokt, @ActualFood @NewYorkFoundling, and many more!
+- 🔨 Builder! TrentonEats, Prospect Student Ventures, SamplAR 
+- 👀 Interested: Human-Computer Interaction, Machine Learning, Interplay between Technology and Society!
 <!--
 **stephendongg/stephendongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
