@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Stephen Dong! Here's a little bit about me. 
+### Hi there 👋, my name is Stephen Dong!
 - 📚 B.S.E Computer Science @ Princeton University
 - 👨‍💻 Previous Internships at @Rokt, @ActualFood @NewYorkFoundling, and many more!
 - 🔨 Builder! TrentonEats, Prospect Student Ventures, SamplAR 
