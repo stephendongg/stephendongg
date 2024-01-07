@@ -3,6 +3,7 @@
 - 👨‍💻 Previous Internships at @Rokt, @ActualFood @NewYorkFoundling, and many more!
 - 🔨 Builder! TrentonEats, Prospect Student Ventures, SamplAR 
 - 👀 Interested: Human-Computer Interaction, Machine Learning, Interplay between Technology and Society!
+- Nice to meet you!! 
 <!--
 **stephendongg/stephendongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
