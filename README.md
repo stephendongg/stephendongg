@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Stephen Dong!
-- 📚 B.S.E Computer Science @ Princeton University (Currently a Senior!)
+- 📚 B.S.E Computer Science @ Princeton University (senior year!)
 - 👨‍💻 Previous Internships at @Rokt, @ActualFood @NewYorkFoundling, and many more!
 - 🔨 Love to build: TrentonEats, Prospect Student Ventures, SamplAR 
 - 👀 Interested: Human-Computer Interaction, Machine Learning, Interplay between Technology and Society!
