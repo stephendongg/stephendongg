@@ -3,7 +3,7 @@
 - 👨‍💻 Previous Internships at @Rokt, @ActualFood @NewYorkFoundling, and many more!
 - 🔨 Love to build: TrentonEats, Prospect Student Ventures, SamplAR 
 - 👀 Interested: Human-Computer Interaction, Machine Learning, Interplay between Technology and Society!
-Links:
+### Links:
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephendong/)
 - 🚧 Website under construction! 
 <!--
