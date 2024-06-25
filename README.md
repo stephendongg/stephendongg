@@ -5,7 +5,7 @@
 - 👀 Interested: Human-Computer Interaction, Machine Learning, Interplay between Technology and Society.
 ### Links:
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephendong/)
-- 🚧 Website under construction! 
+- 🌐 Check out my [personal website](stephendong.notion.site) ! 
 <!--
 **stephendongg/stephendongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
