@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Stephen Dong!
+### Hey 👋, my name is Stephen Dong!
 - 📚 M.S. Information Science @ Cornell Tech, B.S.E Computer Science @ Princeton University
-- 👨‍💻 Previous Internships at @Rokt, @Nosh Delivery, @ActualFood @NewYorkFoundling, and many more!
-- 🔨 Love to build: TrentonEats, Prospect Student Ventures, SamplAR, RateRight
-- 👀 Interested: Human-Computer Interaction, Machine Learning, Interplay between Technology and Society.
+- 👨‍💻 Previous Internships @ Rokt, Nosh Delivery, ActualFood, NewYorkFoundling!
+- 🔨 Built: TrentonEats, Prospect Student Ventures, SamplAR, RateRight
+- 👀 Interested: Social Computing, HCI, AI/ML, Tech & Society
 ### Links:
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephendong/)
 - 🌐 My github is a little messy right now. If you want to see my projects, please check out my [personal portfolio](https://stephendong.notion.site)! 
