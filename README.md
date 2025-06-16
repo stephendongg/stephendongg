@@ -1,6 +1,5 @@
 ### Hey 👋, my name is Stephen Dong!
 - 📚 M.S. Information Science @ Cornell Tech, B.S.E Computer Science @ Princeton University
-- 👨‍💻 Previous Internships @ Rokt, Nosh Delivery, ActualFood, NewYorkFoundling!
 - 🔨 Built: TrentonEats, Prospect Student Ventures, SamplAR, RateRight
 - 👀 Interested: Social Computing, HCI, AI/ML, Tech & Society
 ### Links:
