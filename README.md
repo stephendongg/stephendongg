@@ -1,7 +1,6 @@
 ### Hey 👋, my name is Stephen Dong!
 - 📚 M.S. Information Science @ Cornell Tech, B.S.E Computer Science @ Princeton University
-- 🔨 Built: TrentonEats, Prospect Student Ventures, SamplAR, RateRight
-- 👀 Interested: Social Computing, HCI, AI/ML, Tech & Society
+- 👀 Interested: Computational Social Science, AI & NLP, Tech & Society
 ### Links:
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephendong/)
 - 🌐 My github is a little messy right now. If you want to see my projects, please check out my [personal portfolio](https://stephendong.notion.site)! 
