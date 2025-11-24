@@ -1,7 +1,7 @@
 ## 👋👋 Hey! I'm Stephen!
 I'm currently pursuing a M.S. at Cornell Tech in [Connective Media](https://www.youtube.com/watch?v=caLiZLiim6A) (a first-of-it's kind program that blends Computer Science, Psychology, Sociology, and Media Studies). I'm using this program to hone my skillset in applications of computer science, develop fluency in AI & ML, and hopefully learn how people and technology can come together to change the world 😅. Before this I graduated Cum Laude with a degree in Computer Science at Princeton with a minor in Technology and Society. 
 
-I love collaborating on projects and trying to take them as far as I can. I especially am attraced to projects that deal with the societal application of technology, leverage AI/Machine Learning, or somehow might make the world a better place. Please check out some of my [work](https://stephendong.notion.site) or reach out on [LinkedIn](https://www.linkedin.com/in/stephendong/) if you find my profile intersting! 
+I love collaborating on projects and trying to take them as far as I can. I especially am attracted to projects that deal with the societal application of technology, leverage AI/Machine Learning, or somehow might make the world a better place. Please check out some of my [work](https://stephendong.notion.site) or reach out on [LinkedIn](https://www.linkedin.com/in/stephendong/) if you find my profile intersting! 
 
 Please also do reach out if you think we might be able to collaborate! My skillset spans fullstack engineering (with a focus on backend systems) as well as data science and machine learning methods. I also am able to do research-oriented tasks, manage technical or nontechnical projects, and do very basic design. 
 
