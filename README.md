@@ -1,5 +1,5 @@
 ## 👋👋 Hey! I'm Stephen!
-I'm currently pursuing a M.S. at Cornell Tech in [Connective Media](https://www.youtube.com/watch?v=caLiZLiim6A) (a mix of Computer Science, Psychology, Sociology, and Media Studies). I'm using this program to hone my skillset in applications of computer science and develop fluency in AI & ML. Before this I graduated Cum Laude with a degree in Computer Science at Princeton with a minor in Technology and Society. 
+I'm currently pursuing a M.S. at Cornell Tech in [Connective Media](https://www.youtube.com/watch?v=caLiZLiim6A) (a first-of-it's kind program that blends Computer Science, Psychology, Sociology, and Media Studies). I'm using this program to hone my skillset in applications of computer science and develop fluency in AI & ML. Before this I graduated Cum Laude with a degree in Computer Science at Princeton with a minor in Technology and Society. 
 
 I love collaborating on projects and trying to take them as far as I can. I especially am attraced to projects that deal with the societal application of technology, leverage AI/Machine Learning, or somehow might make the world a better place. Please check out some of my [work](https://stephendong.notion.site) or reach out on [LinkedIn](https://www.linkedin.com/in/stephendong/) if you find my profile intersting! 
 
