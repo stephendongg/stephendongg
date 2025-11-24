@@ -1,9 +1,6 @@
-### Hey 👋, my name is Stephen Dong!
-- 📚 M.S. Information Science @ Cornell Tech, B.S.E Computer Science @ Princeton University
-- 👀 Interested: Computational Social Science, AI & NLP, Tech & Society
-### Links:
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephendong/)
-- 🌐 My github is a little messy right now. If you want to see my projects, please check out my [personal portfolio](https://stephendong.notion.site)! 
+Hello! I'm currently pursuing a M.S. at Cornell Tech in Connective Media (a mix of Computer Science, Behavioral Science, and Media Studies). I'm using this program to hone my skillset in applications of computer science and develop fluency in AI & ML. Before this I graduated Cum Laude with a degree in Computer Science at Princeton with a minor in Technology and Society. 
+
+I'm currently especially interested in Computational Social Science, AI and Natural Language Processing (as with probably everyone else right now) and the interplay between technology and society. Please check out some of my [work](https://stephendong.notion.site) and connect with me on [LinkedIn](https://www.linkedin.com/in/stephendong/) if you find my profile intersting! 
 
 <!--
 **stephendongg/stephendongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
