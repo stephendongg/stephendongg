@@ -2,6 +2,8 @@
 
 I'm currently pursuing my M.S. at Cornell Tech, having previously got my B.S.E. at Princeton. I am attracted to projects that deal with the societal application of technology, leverage AI/Machine Learning, or somehow might make the world a better place. Please check out some of my [work](https://stephendong.notion.site) or reach out on [LinkedIn](https://www.linkedin.com/in/stephendong/) if you find my profile intersting! 
 
+[Here](https://stephendongg.github.io/civicpulse/nyc/) is a current project I am working on. Building the way I want to get news around me! 
+
 
 
 <!--
