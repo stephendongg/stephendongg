@@ -5,8 +5,8 @@ I am attracted to projects that deal with the societal application of technology
 Bulletin:
 - [Here](https://stephendongg.github.io/civicpulse/nyc/) is a  project I am currently working on. I'm building the way I want to get local news around me!
 
-### 💬 Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## Quote of the Day
+![Quote](https://readme-daily-quotes.vercel.app/api?theme=dark)
 
 
 
