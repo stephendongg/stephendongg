@@ -6,7 +6,7 @@ Bulletin:
 - [Here](https://stephendongg.github.io/civicpulse/nyc/) is a  project I am currently working on. I'm building the way I want to get local news around me!
 
 ## Quote of the Day
-![Quote](https://readme-daily-quotes.vercel.app/api?theme=dark)
+![](https://github-readme-philosophical-quotes.vercel.app/api/generate-image)
 
 
 
