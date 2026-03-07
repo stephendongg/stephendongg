@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ### Hey! I'm Stephen 👋
 
@@ -11,7 +11,7 @@ Currently building <b><a href="https://stephendongg.github.io/civicpulse/nyc/">C
 
 </td>
 
-<td width="40%" align="center">
+<td width="35%" align="center">
 
 <img src="https://github-readme-philosophical-quotes.vercel.app/api/generate-image"/>
 
