@@ -1,20 +1,12 @@
-<h3>Hey! I'm Stephen 👋</h3>
+### 👋👋 Hey! I'm Stephen!
 
-<p>
-I’m interested in projects at the intersection of <b>AI, technology, and society</b> — especially ones that help people better access and understand information.
-</p>
+I am attracted to projects that deal with the societal application of technology, leverage AI/Machine Learning, or somehow might make the world a better place. Please check out some of my [work](https://stephendong.notion.site) or reach out on [LinkedIn](https://www.linkedin.com/in/stephendong/) if you find my profile interesting! 
 
-<p>
-<a href="https://stephendong.notion.site">Website</a> ·
-<a href="https://www.linkedin.com/in/stephendong/">LinkedIn</a>
-</p>
+Bulletin:
+- [Here](https://stephendongg.github.io/civicpulse/nyc/) is a project I am currently working on. I'm building the way I want to get local news around me!
 
-<h3>Bulletin</h3>
-
-<p>
-Currently building <a href="https://stephendongg.github.io/civicpulse/nyc/"><b>CivicPulse</b></a> — a project exploring better ways to surface local news and civic information.
-</p>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-philosophical-quotes.vercel.app/api/generate-image" />
+  <img width="420" src="https://github-readme-philosophical-quotes.vercel.app/api/generate-image">
 </p>
