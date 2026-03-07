@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td width="65%" valign="top">
+<img align="right" width="320" src="https://github-readme-philosophical-quotes.vercel.app/api/generate-image"/>
 
 ### Hey! I'm Stephen 👋
 
@@ -8,13 +6,3 @@ I am attracted to projects that deal with the societal application of technology
 
 ### Bulletin
 Currently building <b><a href="https://stephendongg.github.io/civicpulse/nyc/">CivicPulse</a></b> — a project exploring better ways to surface local news.
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://github-readme-philosophical-quotes.vercel.app/api/generate-image"/>
-
-</td>
-</tr>
-</table>
