@@ -11,9 +11,6 @@ I am attracted to projects that deal with the societal application of technology
 
 ---
 
-<div align="center">
 
 ## Quote of the Day
 ![](https://github-readme-philosophical-quotes.vercel.app/api/generate-image)
-
-</div>
