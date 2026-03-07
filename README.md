@@ -9,8 +9,6 @@ I am attracted to projects that deal with the societal application of technology
 - [Here](https://stephendongg.github.io/civicpulse/nyc/) is a project I am currently working on. I'm building the way I want to get local news around me!
 
 
----
-
 <div align="center">
 
   ![](https://github-readme-philosophical-quotes.vercel.app/api/generate-image)
