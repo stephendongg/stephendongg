@@ -1,2 +1,4 @@
  [[Website](https://stephendong.notion.site)] [[LinkedIn](https://www.linkedin.com/in/stephendong/)]
-![Quote](https://readme-daily-quotes.vercel.app/api?theme=dark)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
