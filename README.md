@@ -1,4 +1,4 @@
  [[Website](https://stephendong.notion.site)] [[LinkedIn](https://www.linkedin.com/in/stephendong/)]
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hope+You're+Having+A+Great+Day!)](https://git.io/typing-svg)
 
